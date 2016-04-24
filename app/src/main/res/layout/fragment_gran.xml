@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fondo" >
+
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+
+        <TextView
+           style="@style/textViewStyle.Title"
+            android:text="@string/granh" />
+        <TextView
+           style="@style/textViewStyle.Content"
+            android:text="@string/tgranh" />
+        <TextView
+           style="@style/textViewStyle.Content"
+            android:textColor="@color/blue"
+            android:layout_gravity="center"
+            android:text="@string/ugranh"/>
+        <ImageView
+          style="@style/imageViewStyle"
+            android:src="@drawable/gran_hotel"/>
+
+    </LinearLayout>
+
+
+</FrameLayout>

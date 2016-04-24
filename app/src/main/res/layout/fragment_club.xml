@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bedoya.esau.yarumaltour3.ClubFragment"
+    android:background="@color/fondo">
+
+    <LinearLayout
+       style="@style/linearLayoutStyle">
+
+           <TextView
+                style="@style/textViewStyle.Title"
+                android:text="@string/club"/>
+           <TextView
+                style="@style/textViewStyle.Content"
+                android:text="@string/tclub"/>
+           <TextView
+                style="@style/textViewStyle.Content"
+                android:textColor="@color/blue"
+                android:gravity="center"
+                android:text="@string/uclub"/>
+           <ImageView
+               style="@style/imageViewStyle"
+               android:src="@drawable/campestre"/>
+
+    </LinearLayout>
+</FrameLayout>

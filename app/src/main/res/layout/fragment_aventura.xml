@@ -1,0 +1,41 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bedoya.esau.yarumaltour3.AventuraFragment"
+    android:background="@color/fondo">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            style="@style/linearLayoutStyle">
+
+                <TextView
+                    style="@style/textViewStyle.Title"
+                    android:text="@string/aventura"/>
+                <TextView
+                    style="@style/textViewStyle.Content"
+                    android:text="@string/taventura1"/>
+                <ImageView
+                   style="@style/imageViewStyle"
+                    android:src="@drawable/puentepiedra"/>
+
+                <TextView
+                    style="@style/textViewStyle.Content"
+                    android:text="@string/taventura2"/>
+                <ImageView
+                    style="@style/imageViewStyle"
+                    android:src="@drawable/alto_boqueron"/>
+                <TextView
+                    style="@style/textViewStyle.Content"
+                    android:text="@string/taventura3"/>
+                <ImageView
+                   style="@style/imageViewStyle"
+                    android:src="@drawable/vista_lacruz"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

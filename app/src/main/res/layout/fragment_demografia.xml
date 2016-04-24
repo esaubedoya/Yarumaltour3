@@ -1,0 +1,49 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bedoya.esau.yarumaltour3.DemografiaFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/fondo">
+        <LinearLayout
+            style="@style/linearLayoutStyle">
+
+            <TextView
+               style="@style/textViewStyle.Title"
+                android:text="@string/demografia" />
+
+                <TextView
+                        style="@style/textViewStyle.Content"
+                         android:text="@string/generalidades"
+                        android:layout_gravity="center"
+                        android:textColor="@color/blue"/>
+                <TextView
+                       style="@style/textViewStyle.Content"
+                        android:text="@string/tdemo1"/>
+                <ImageView
+                    style="@style/imageViewStyle"
+                    android:src="@drawable/ubicacion"/>
+                <TextView
+                       style="@style/textViewStyle.Content"
+                        android:text="@string/simbolos"
+                        android:layout_gravity="center"
+                        android:textColor="@color/blue"/>
+                <ImageView
+                        style="@style/imageViewStyle"
+                        android:src="@drawable/bandera" />
+
+                <TextView
+                       style="@style/textViewStyle.Content"
+                        android:text="@string/detalles"/>
+
+                <ImageView
+                        style="@style/imageViewStyle"
+                        android:src="@drawable/mapa"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+</FrameLayout>

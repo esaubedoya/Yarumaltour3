@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bedoya.esau.yarumaltour3.CasonaFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/fondo">
+
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+
+
+
+        <TextView
+           style="@style/textViewStyle.Title"
+            android:text="@string/casona" />
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/tcasona" />
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:textColor="@color/blue"
+            android:text="@string/ucasona"/>
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/la_casona"/>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

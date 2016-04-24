@@ -1,0 +1,55 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bedoya.esau.yarumaltour3.CorregimientosFragment"
+    android:background="@color/fondo">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+
+        <TextView
+           style="@style/textViewStyle.Title"
+            android:text="@string/corregimientos"/>
+        <TextView
+           style="@style/textViewStyle.Content"
+            android:text="@string/cedeno"
+            android:textColor="@color/blue"
+            android:layout_gravity="center"/>
+        <TextView
+           style="@style/textViewStyle.Content"
+            android:text="@string/tcedeno"/>
+        <ImageView
+           style="@style/imageViewStyle"
+            android:src="@drawable/cedeno"/>
+        <TextView
+           style="@style/textViewStyle.Content"
+            android:text="@string/llanos"
+            android:layout_gravity="center"
+            android:textColor="@color/blue"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/tllanos"/>
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/llanos"/>
+        <TextView
+           style="@style/textViewStyle.Content"
+            android:text="@string/ochali"
+            android:textColor="@color/blue"
+            android:layout_gravity="center"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/tochali"/>
+        <ImageView
+           style="@style/imageViewStyle"
+            android:src="@drawable/ochali"/>
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

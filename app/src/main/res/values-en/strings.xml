@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YarumalTour</string>
+    <string name="slogan">La Sultana del Norte</string>
+    <string name="hoteles">Hotels</string>
+    <string name="demografia">Demography</string>
+    <string name="cerca">About </string>
+    <string name="regreso">...</string>
+    <string name="tgranh">It offers: large and comfortable rooms with double or single bed with WI-FI service and cable TV.
+ Restaurant service. Special Plans for your couple.</string>
+    <string name="ugranh">20th av # 20th - 46. Tel: 8536065</string>
+    <string name="amajari">Amajari Hotel</string>
+    <string name="tamajari"><![CDATA[Comfortable rooms with private bath, hot water, cable TV and WI-FI.
+ Restaurant service. Make your event.]]></string>
+    <string name="uamajari">Park of Yarumal. Tel: 8538866 Y 8870866</string>
+    <string name="club">Chorros Blancos Country Club</string>
+    <string name="tclub"><![CDATA[The best place for recreation Northern Antioquia, with a wonderful climate,
+ good green areas, games, wet areas, pools, rooms, areas for camping, ecological trail
+and bar and restaurant.]]></string>
+    <string name="uclub">Located on Chorros Blancos.
+        Tel: 853  85 00. Mobile 320 698 7704  and 320 698 6484</string>
+    <string name="casona">La Casona Pub</string>
+    <string name="tcasona">Inn and Disco. We offer to you good enviroment with crossover music.
+ We have national and international liquors. We have special gifs for your birthday.
+  Live music Shows.   Karaoke and a lot of good things.</string>
+    <string name="ucasona">19th av # 22th, corner. Tel: 8874500 - Yarumal</string>
+    <string name="texas">Texas Bar</string>
+    <string name="ttexas">We offer a friendly atmosphere for talks, with the best American ballads and
+         rock classics. local and imported liquors, beers and shots. Events on special dates.</string>
+    <string name="utexas">19th st # 19th -70, Yarumal</string>
+    <string name="mison">Mi son coffee bar</string>
+    <string name="tmison">A place for enjoying and sharing. You are here by a dream;
+ because we are convinced that the meeting extends beyond music and liquor: My Son our refuge
+ where the word is welcome, laughter, hug, known among friends, where good stories
+ They remain in time and transformed into feeling, poetry and images that invite nostalgic ..</string>
+    <string name="umison">19th st # 19th -15. Tel: 8536807</string>
+
+    <string name="religion">Seminary and Basilica</string>
+    <string name="treligion1"><![CDATA[Tour of three places of religious and historical importance for the city:
+         A minor basilica of Our Lady of Mercy. It is located in the main park of Yarumal.
+         Features beautiful architecture and diferententes paintings and sculptures of great value. There also are
+          the remains of Epifanio Mejia, Antioquia hymn writer. Its altar is made of marble of different colors
+          and weighs 12 tons. It is the main religious center of the town.]]></string>
+    <string name="treligion2"><![CDATA[The Yarumal seminar for foreign missions. It was founded in 1927, there were
+         mission missionaries to go to different places of Colombia and the world priests.
+         It is an old architectural work with mud walls, clay tile roof, hardwood floors.
+         Today, in place SENA works and the work presents great deterioration.]]></string>
+    <string name="treligion3">Cristo Sacerdote seminary. It was founded in 1969. It is located in the lower part of the urban area, on the road  toward Medellin.
+ It has chapels which have different artistic works. There is extensive natural areas.</string>
+
+    <string name="aventura">Natural Adventure and Historic travels</string>
+    <string name="taventura1">Spa Mallarino and stone bridge Visit: In  Mallarino,Angostura road,
+ there are  natural pools over Santa Rita river and also there are hostels. You will be able enjoy a very good river travel.
+ You can also camping. And if you love adventure! There is a very good place for hiking, its name is Puente Piedra. </string>
+    <string name="taventura2">Boqueron is other beatiful place, this is located in Campamento road. There you will find a lot of water source and you could see Nechi river valley
+In the lowest part of the mountain there is a monument to Chorros Blancos Independence  Combat, happened in 1820.</string>
+    <string name="taventura3"><![CDATA[Finally, two more recommendations: Cedeno and El Cedro little towns offer a lot of water and wooded sources.
+But if you do not want to travel, in the Morro Azul Mount, at the top of the town, you can enjoy a spectacular view of the  valley
+ of  Nechi river. This is  both , an environment adventure and religious, there there  is a place known as La Cruz,
+ place of Catholic ceremonies.]]></string>
+
+    <string name="generalidades">Overview</string>
+
+    <string name="tdemo1"><![CDATA[Yarumal is a town located in northern Antioquia (Colombia).
+             It covers an area of 724km2. It is located at an altitude of 2353 above sea level, at a distance
+             123km of Medellin. It has 46865 inhabitants, of which 30515 are located in the urban area.
+             The gentile is Yarumaleños.]]></string>
+    <string name="detalles">Urban area has 27 suburb and rural area has 52 village and 7 small town.
+ Urban area has 2 public high schools and 2 privated; it also has 9 public elementary schools.
+ Each little town there is a high school.  Yarumal has good public services and medical centers.</string>
+
+    <string name="version">YarumalTour version 1.0. Date: 04/04/2016</string>
+    <string name="autor">Developed By:  Jose Esau Bedoya Vergara. Engineering Deparment - University of Antioquia
+            This app was developed for academic purposes. Pictures were token from the official site of the companies or from Facebook.</string>
+    <string name="bares">Pubs and Discos</string>
+    <string name="frase">Place of important people and history</string>
+    <string name="granh">Great Hotel</string>
+    <string name="simbolos">Symbols</string>
+    <string name="sitios">Touristic places</string>
+    <string name="corregimientos">Little Towns</string>
+    <string name="cedeno">CEDEÑO</string><string name="tcedeno">Cedeno is located 40 km east of Yarumal, has school and high school, health center and a small village of 3000 inhabitants.
+ They are dedicated to agriculture and mining. It has great natural landscapes and water sources.</string><string name="tllanos">Los Llanos is located 30 km from Yarumal on the road to Medellin. It has a school, health center and a small village of 5000 inhabitants.
+ It is weather moor at an altitude of 2600 meters. There are large agricultural areas There you can see beautiful sunrises and sunsets.</string><string name="tochali">It is located 40 km from Yarumal. It is an area dedicated to agriculture and mining. There is a village of 2000 inhabitants. It has a cableway that connects the township of La Loma.
+You can enjoy beautiful natural landscapes, abundant water sources.</string>
+    <string name="inicio">Home</string>
+    <string name="maventura">Adventure</string>
+    <string name="mreligion">Religion</string>
+    <string name="rural">Country</string>
+
+
+</resources>

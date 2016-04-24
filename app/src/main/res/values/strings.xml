@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">YarumalTour</string>
+    <string name="slogan">La Sultana del Norte</string>
+    <string name="frase"> Tierra de personajes e historia</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="bares">Bares</string>
+    <string name="sitios">Sitios de interés</string>
+    <string name="demografia">Demografía</string>
+    <string name="cerca">Acerca de</string>
+    <string name="regreso">...</string>
+    <string name="granh">Gran Hotel</string>
+    <string name="tgranh">Ofrece: amplias y cómodas habitaciones con cama doble o individual, con servicio de WI-FI y TV por cable.
+        Servicio de Restaurante. Planes de noche especial con tu pareja.</string>
+    <string name="ugranh">Cra. 20 # 20 - 46. Tel: 8536065</string>
+    <string name="amajari">Hotel Amajari</string>
+    <string name="tamajari">Confortables habitaciones con baño privado, agua caliente, TV por cable y WI-FI.
+        Servicio de restaurante. Preparamos tu evento.</string>
+    <string name="uamajari">Parque ppal de Yarumal. Tel: 8538866 Y 8870866</string>
+    <string name="club">Club Campestre Chorros Blancos</string>
+    <string name="tclub">El mejor sitio de esparcimiento del Norte de Antioquia,con un clima  maravilloso,
+        abundantes zonas verdes, juegos, zonas húmedas, Piscinas, habitaciones, zonas para camping, sendero ecológico
+        y servicio de bar y restaurante.</string>
+    <string name="uclub">Ubicado en la Vereda Chorros Blancos.
+        Teléfono Fijo 853  85 00. Celular 320 698 7704 y 320 698 6484</string>
+    <string name="casona">Fonda La Casona</string>
+    <string name="tcasona">Fonda y discoteca. Disfruta de un ambiente agradable con música crossover,
+       tenemos licores nacionales e importados. Regalos especiales de cumpleaños. Shows de artistas en vivo.
+        Karaoke y todo para que pases una noche agradable.</string>
+    <string name="ucasona">Cra 19 con calle 22, esquina. Tel: 8874500 - Yarumal</string>
+    <string name="texas">Texas Bar</string>
+    <string name="ttexas">Te ofrecemos un ambiente agradable para conversar, con las mejores baladas americanas y
+        clásicos del rock. Licores nacionales e importados, cervezas y shots. Eventos en fechas especiales.</string>
+    <string name="utexas">Calle 19 # 19-70, parque ppal</string>
+    <string name="mison">Mi son café bar</string>
+    <string name="tmison">Un espacio para disfrutar y compartir.Hoy estás aquí gracias a un sueño;
+        porque estamos convencidos que el encuentro va más allá de la música y el licor: Mi Son nuestro refugio
+        donde la palabra es bienvenida, la risa, el abrazo, el saberse entre amigos, donde las buenas historias
+        permanecen en el tiempo y se trasforman en sentimiento, poesía y en imágenes que invitan a la nostalgia..</string>
+    <string name="umison">Calle 19 # 19-15. Tel: 8536807</string>
+
+    <string name="religion">Seminarios y Basílica</string>
+    <string name="treligion1">Recorrido por tres sitios de importancia religiosa e histórica para el municipio:
+        La basílica menor de Nuestra señora de las Mercedes. Se encuentra ubicada en el parque principal de Yarumal.
+        Presenta una hermosa arquitectura y diferententes lienzos y esculturas de gran valor. Allí también se encuentran
+         los restos de Epifanio Mejía, escritor del himno antioqueño. Su altar está hecho en mármol de diferentes colores
+         y pesa 12 toneladas. Es el principal centro religioso del municipio.</string>
+    <string name="treligion2">El seminario de misiones extranjeras de Yarumal. Fue fundado en 1927, allí se formaban
+        sacerdotes misioneros para ir a misión a diferentes lugares de Colombia y el mundo.
+        Es una obra arquitectónica antigua, con paredes de tapia, techo de teja de barro, pisos de madera.
+        En la actualidad, en el lugar funciona el SENA y la obra presenta gran deterioro.</string>
+    <string name="treligion3">El seminario Cristo sacerdote. Fue fundado en 1969. Está ubicado en la parte baja del casco urbano del municipio,
+        en la vía que conduce hacia Medellín. En el se encuentran diferentes capillas con obras artísticas. Posee amplios espacios naturales.</string>
+
+    <string name="aventura">Aventura natural e Historia</string>
+    <string name="taventura1">Balneario de Mallarino y Visita a Puente piedra: En la vereda Mallarino, vía a Angostura,
+        se encuentran charchos sobre la quebrada Santa Rita y también estaderos y piscina. Podrá disfrutar de un gran paseo de río
+        y sancocho en este lugar. También hay espacio para acampar. Y si lo suyo es la aventura, a 20 minutos de allí
+        se encuentra un lugar conocido como puente piedra, como su nombre lo indica, es una roca que cubre, por un espacio
+        de 600 m, al río nechí.</string>
+    <string name="taventura2">Hay otro lugar de aventura e historia: El cerro boquerón, ubicado en límites con el municipio
+        de Campamento, allí usted encontrará abundantes nacimientos de aguas y podrá observar gran parte del cañón del río Nechí.
+        En la parte baja de este cerro, se encuentra el lugar donde sucedió, en 1820, el Combate de Chorros Blancos,
+        evento que cerró la gesta libertadora de Bolívar. En el lugar se encuentra un monumento a los héroes del evento.</string>
+    <string name="taventura3">Finalmente, dos recomendaciones más: Los corregimientos de Cedeño y El Cedro ofrecen gran abundancia
+        de fuentes hídricas y boscosas. Pero si no quiere viajar, en el cerro Morro Azul, en la parte superior del casco urbano,
+        usted podrá disfrutar de una vista espectacular del valle del río Nechí. Este es un ambiente tanto de aventura como religioso,
+        pues se encuentra el sitio conocido como La Cruz, lugar de ceremonias católicas.</string>
+
+    <string name="generalidades">Generalidades</string>
+
+    <string name="tdemo1">Yarumal es un municipio ubicado en el Norte de Antioquia (Colombia).
+            Tiene una extensión de 724km2. Se encuentra a una altura de 2353 m.s.n.m. a una distancia
+            de 123Km de Medellín. Cuenta con 46865 habitantes, de los cuales 30515 se ubican en la zona urbana.
+            El gentilicio es Yarumaleños.</string>
+    <string name="simbolos">Símbolos</string>
+    <string name="detalles"> El área urbana está conformada por 27 barrios y el área rural por 52 veredas y 7 corregimientos.
+            El área urbana cuenta con 2 colegios oficiales y 2 privados y 9 escuelas primarias públicas.
+            Además, en cada corregimiento hay colegios y en las veredas, escuelas.  El municipio cuenta con servicios públicos de calidad
+            y un hospital de segundo nivel de complejidad.</string>
+
+    <string name="version">YarumalTour versión 1.0. Fecha: 04/04/2016</string>
+    <string name="autor">Desarrollado por: Jose Esau Bedoya Vergara. Facultad de Ingeniería - Universidad de Antioquia
+            Esta app fue desarrollada con fines académicos. Las imágenes usadas en ella fueron tomadas del sitio oficial del
+            lugar al que corresponden o de galerías de Facebook</string>
+
+    <string name="abierto" translatable="false">Open navigation drawer</string>
+    <string name="cerrado" translatable="false">Close navigation drawer</string>
+
+
+    <string name="cedeno" translatable="false">CEDEÑO</string>
+    <string name="tcedeno">Cedeño está ubicado a 40Km al oriente de Yarumal, cuenta con escuela y colegio, centro de salud y
+                un caserío de 3000 habitantes. Se dedican a la agricultura y la minería. Cuenta con grandes paisajes naturales
+                y fuentes hídricas.</string>
+    <string name="llanos" translatable="false">LLANOS DE CUIVÁ</string>
+    <string name="tllanos">Los Llanos está ubicado a 30Km de Yarumal sobre la vía que conduce a Medellín. Cuenta con colegio, centro de salud
+                            y un caserío de 5000 habitantes. Es de clima páramo, a una altura de 2600 msnm. Hay grandes zonas agropecuarias
+                            Allí podrás observar hermosos amaneceres y atardeceres.</string>
+    <string name="ochali" translatable="false">OCHALÍ</string>
+    <string name="tochali">Está ubicado a 40Km de Yarumal. Es una zona dedicada a la agricultura y la minería. Hay un caserío de 2000 habitantes.
+                            Cuenta con un teleférico que comunica al corregimiento La Loma. Se puede disfrutar de hermosos paisajes naturales,
+                            abundantes fuentes hídricas.</string>
+    <string name="corregimientos">CORREGIMIENTOS</string>
+    <string name="mreligion">Religiosos</string>
+    <string name="maventura">Aventura</string>
+    <string name="rural">Rural</string>
+    <string name="inicio">Inicio</string>
+</resources>

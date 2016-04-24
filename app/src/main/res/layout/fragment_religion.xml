@@ -1,0 +1,41 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bedoya.esau.yarumaltour3.ReligionFragment"
+    android:background="@color/fondo">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+          style="@style/linearLayoutStyle">
+
+            <TextView
+                style="@style/textViewStyle.Title"
+                android:text="@string/religion" />
+            <TextView
+                style="@style/textViewStyle.Content"
+                android:text="@string/treligion1" />
+            <ImageView
+                style="@style/imageViewStyle"
+                android:src="@drawable/basilica"/>
+
+            <TextView
+               style="@style/textViewStyle.Content"
+                android:text="@string/treligion2"/>
+            <ImageView
+                style="@style/imageViewStyle"
+                android:src="@drawable/semisiones"/>
+
+            <TextView
+                style="@style/textViewStyle.Content"
+                android:text="@string/treligion3"/>
+            <ImageView
+                style="@style/imageViewStyle"
+                android:src="@drawable/seminario_abajo"/>
+
+    </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>
