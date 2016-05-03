@@ -23,9 +23,7 @@
                 <TextView
                        style="@style/textViewStyle.Content"
                         android:text="@string/tdemo1"/>
-                <ImageView
-                    style="@style/imageViewStyle"
-                    android:src="@drawable/ubicacion"/>
+
                 <TextView
                        style="@style/textViewStyle.Content"
                         android:text="@string/simbolos"
@@ -42,6 +40,10 @@
                 <ImageView
                         style="@style/imageViewStyle"
                         android:src="@drawable/mapa"/>
+                <com.google.android.gms.maps.MapView android:id="@+id/mapYarumal"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"/>
 
         </LinearLayout>
 

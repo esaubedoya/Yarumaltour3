@@ -33,6 +33,10 @@
             <ImageView
                 style="@style/imageViewStyle"
                 android:src="@drawable/seminario_abajo"/>
+            <com.google.android.gms.maps.MapView android:id="@+id/mapReligion"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"/>
 
     </LinearLayout>
     </ScrollView>

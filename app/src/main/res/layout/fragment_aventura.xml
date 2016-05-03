@@ -34,6 +34,10 @@
                 <ImageView
                    style="@style/imageViewStyle"
                     android:src="@drawable/vista_lacruz"/>
+                <com.google.android.gms.maps.MapView android:id="@+id/mapAventura"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"/>
 
         </LinearLayout>
     </ScrollView>

@@ -1,4 +1,4 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.bedoya.esau.yarumaltour3.CasonaFragment"
     android:layout_width="match_parent"
@@ -24,9 +24,14 @@
         <ImageView
             style="@style/imageViewStyle"
             android:src="@drawable/la_casona"/>
+        <com.google.android.gms.maps.MapView android:id="@+id/mapCasona"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"/>
+
 
 
     </LinearLayout>
 
 
-</FrameLayout>
+</ScrollView>
